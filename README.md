@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [My onw Company](https://caarlosdamian.github.io/react-website-portafolio/#/)
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS also backend development with Node js 
 
 - 👯 I’m looking to collaborate on several projects.
 
