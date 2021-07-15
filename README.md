@@ -40,4 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caarlosdamian&show_icons=true&locale=en&layout=compact" alt="caarlosdamian" /></p>
 
-
+![Snake animation](https://github.com/caarlosdamian/caarlosdamian/blob/output/github-contribution-grid-snake.svg)
