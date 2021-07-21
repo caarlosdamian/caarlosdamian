@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caarlosdamian&label=Profile%20views&color=0e75b6&style=flat" alt="caarlosdamian" /> </p>
 
 
-- 🔭 I’m currently working on [My onw Company](https://caarlosdamian.github.io/react-website-portafolio/#/)
+- 🔭 I’m currently working on [My onw Portafolio](https://caarlosdamian.github.io/react-website-portafolio/#/)
 
 - 🌱 I’m currently learning React JS also backend development with Node js 
 
