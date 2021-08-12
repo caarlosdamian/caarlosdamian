@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for help with improveing my programming skills
 
-- ⚡ Fun fact: Im walways learning 
+- ⚡ Fun fact: I have two cats!
 
 - 👯 I’m looking to collaborate on **Every single project**
 
