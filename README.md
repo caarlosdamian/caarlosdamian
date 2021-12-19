@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning React JS also backend development with Node js 
 
-- 👯 I’m looking to collaborate on several projects.
+- 👯 I’m looking to collaborate,contact me.
 
 - 🤔 I’m looking for help with improveing my programming skills
 
