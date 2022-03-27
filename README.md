@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caarlosdamian&label=Profile%20views&color=0e75b6&style=flat" alt="caarlosdamian" /> </p>
 
 
-- 🔭 I’m currently working on [My onw Portafolio](https://caarlosdamian.netlify.app/)
+- 🔭 I’m currently working on [My onw Portafolio](https://carlosdamian.netlify.app/)
 
-- 🌱 I’m currently learning React JS also backend development with Node js 
+- 🌱 I’m currently working as a React developer.
 
 - 👯 I’m looking to collaborate,contact me.
 
