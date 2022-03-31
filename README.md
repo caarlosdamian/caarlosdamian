@@ -4,13 +4,10 @@
 <h3 align="center">A passionate Full Stack Developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caarlosdamian&label=Profile%20views&color=0e75b6&style=flat" alt="caarlosdamian" /> </p>
-
-
-- 🔭 I’m currently working on [My onw Portafolio](https://carlosdamian.netlify.app/)
-
+ 
 - 🌱 I’m currently working as a React developer.
 
-- 👯 I’m looking to collaborate,contact me.
+- 👯 I’m looking to collaborate,[contact me](https://carlosdamian.netlify.app/).
 
 - 🤔 I’m looking for help with improveing my programming skills
 
@@ -21,8 +18,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/caarlosdamian](https://github.com/caarlosdamian)
 
 - 📫 How to reach me **carlos@touchof.tech**
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
