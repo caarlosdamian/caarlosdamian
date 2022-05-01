@@ -13,8 +13,6 @@
 
 - ⚡ Fun fact: I have two cats!
 
-- 👯 I’m looking to collaborate on **Every single project**
-
 - 👨‍💻 All of my projects are available at [https://github.com/caarlosdamian](https://github.com/caarlosdamian)
 
 - 📫 How to reach me **carlos@touchof.tech** as well on my contact page [contact me](https://carlosdamian.netlify.app/).
