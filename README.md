@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **carlos@touchof.tech** as well on my contact page [contact me](https://carlosdamian.netlify.app/).
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
