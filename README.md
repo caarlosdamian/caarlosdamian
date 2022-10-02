@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate,[contact me](https://carlosdamian.netlify.app/).
 
-- 🤔 I’m looking for help with improveing my programming skills
+- 🤔 I’m improving my programming skills
 
 - ⚡ Fun fact: I have two cats!
 
