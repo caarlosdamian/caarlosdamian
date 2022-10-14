@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently working as a React developer.
 
-- 👯 I’m looking to collaborate,[contact me](https://carlosdamian.netlify.app/).
+- 👯 I’m looking to collaborate, [contact me](https://carlosdamian.netlify.app/).
 
 - 🤔 I’m improving my programming skills
 
