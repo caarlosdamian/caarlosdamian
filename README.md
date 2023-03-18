@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/caarlosdamian](https://github.com/caarlosdamian)
 
-- 📫 How to reach me **carlos@touchof.tech** as well on my contact page [contact me](https://carlosdamian.netlify.app/).
+- 📫 How to reach me **dapecarlos@gmail.com** as well on my contact page [contact me](https://carlosdamian.netlify.app/).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
