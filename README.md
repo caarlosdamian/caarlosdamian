@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caarlosdamian&label=Profile%20views&color=0e75b6&style=flat" alt="caarlosdamian" /> </p>
  
-- 🌱 I’m currently working as a React developer.
+- 🌱 I’m currently working as React developer.
 
 - 👯 I’m looking to collaborate, [contact me](https://carlosdamian.netlify.app/).
-
-- 🤔 I’m improving my programming skills
 
 - ⚡ Fun fact: I have three cats!
 
