@@ -9,11 +9,7 @@
  
 - 🌱 I’m currently working as React developer.
 
-- 👯 I’m looking to collaborate, [contact me](https://carlosdamian.netlify.app/).
-
 - ⚡ Fun fact: I have three cats!
-
-- 👨‍💻 All of my projects are available at [https://github.com/caarlosdamian](https://github.com/caarlosdamian)
 
 - 📫 How to reach me **dapecarlos@gmail.com** as well on my contact page [contact me](https://carlosdamian.netlify.app/).
 
